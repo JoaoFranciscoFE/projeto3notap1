@@ -1,0 +1,6 @@
+gui@gmail.com:27
+ana@hotmail.com:15
+bob@gmail.com:30
+paul@hotmail.com:25
+pedro@yahoo.com:50
+joao@gmail.com:5
